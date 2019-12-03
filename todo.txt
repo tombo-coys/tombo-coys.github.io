@@ -1,5 +1,0 @@
-#set up repo on github 
-#complete contact page
-#go over accessibility issues 
-#build responsive design for mobile // tablet
-#
